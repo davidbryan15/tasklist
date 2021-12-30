@@ -3,7 +3,7 @@
 This project is meant to focus on the CRUD logic using vanilla JavaScript
 
 This code was created using:
- - Microsoft Visual Studio ver()
+ - Microsoft Visual Studio ver(1.63.2)
  - Live Server Extension for Live Reload
 
 You can clone this repository using:
